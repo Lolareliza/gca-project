@@ -1,0 +1,79 @@
+.navlogo{
+	height: 50px;
+}
+
+.icon{
+	border-radius: 50%;
+}
+
+.title{
+	color: #d414e5;
+	text-align: center;
+}
+
+.btn{
+	background-color: #d414e5;
+}
+
+
+.courses li{
+	color: #d414e5;
+}
+
+.banner {
+	background-image: url('../image/agree.jpg');
+	background-size: cover;
+	padding-bottom: 50px;
+	padding-top: 50px
+}
+
+.banner h2 {
+	text-align: center;
+	color: white;
+	font-style: italic;
+	font-size: 60px;
+	margin-top: 0;
+}
+
+.banner h2  span {
+	font-weight: 900;
+}
+
+.banner p {
+	text-align: center;
+	/*color: white;*/
+}
+
+.banner p a {
+	color: white ;
+	background-color: #d414e5;
+	padding: 10px 30px
+}
+
+.footer{
+	background-color: #d414e5;
+}
+
+.dew{
+	background-color: white;
+}
+.dew span{
+	color: #d414e5;
+}
+.text2{
+	list-style: none;
+	color: white;
+}
+.text2 a{
+	color: white;
+}
+.social{
+	background-color: white;
+	color: #d414e5;
+}
+.sub {
+	text-align: center;
+}
+.text{
+	text-align: center;
+}
